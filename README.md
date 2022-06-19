@@ -18,3 +18,9 @@ Módulo de transporte no aplicativo IFS Digital que visa melhorar o transporte e
   <p>Nesse painel foi adaptada a tabela de horarios das aulas para exibir os horarios e pontos dos ônibus, ela também permite selecionar um ônibus que leva para o painel 3</p>
 </div>
 
+- - - 
+<div>
+  <img src = "https://github.com/leodayv/Projeto-Engenharia-de-software-2022.1/blob/main/Pain%C3%A9is/Painel%20-%204.png?raw=true" align ="left" />
+  <p> Esse painel é de origem do ônibus selecionado no painel 3, a partir dele o usuário saberá o status como velocidade, se já embarcou e sua localização tudo em tempo real.</p>
+  </div>
+
